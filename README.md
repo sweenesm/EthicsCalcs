@@ -1,4 +1,6 @@
-Project Description =================== Python code that calculates the
+Project Description 
+=================== 
+Python code that calculates the
 most ethical (most net value building) decision in a given scenario.
 
 This is a proof-of-concept, "demo\" code that includes only a limited
@@ -15,11 +17,17 @@ minimal sets of value builds and value destructions (beyond what are
 used in this Python code), and examples of ethical dilemma calculations
 for multiple versions of the "trolley problem.\"
 
-How You Can Help ================ Please follow the X account
+How You Can Help 
+================ 
+Please follow the X account
 \@DishonorP (https://twitter.com/DisonorP), and like and repost its
 posts.
 
-Contact ======= sean@dishonorablespeechinpolitics.com
+Contact 
+======= 
+sean@dishonorablespeechinpolitics.com
 
-License ======= GNU Lesser General Public License v2.1
+License 
+======= 
+GNU Lesser General Public License v2.1
 (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
