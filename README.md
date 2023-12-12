@@ -11,6 +11,8 @@ ethical dilemmas such as the "trolley problem."
 Two files are used by this code: ValueDestructionsListShort.txt and
 ValueBuildsListShort.txt. They are included in this repot.
 
+The Python version used was 3.9.13.
+
 For more information on these ethics calculations, check back here for a
 link to a write up about them. The write up will include links to
 minimal sets of value builds and value destructions (beyond what are
