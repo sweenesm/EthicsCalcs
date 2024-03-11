@@ -13,16 +13,13 @@ ValueBuildsListShort.txt. They are included in this repot.
 
 The Python version used was 3.9.13.
 
-For more information on these ethics calculations, check back here for a
-link to a write up about them. The write up will include links to
-minimal sets of value builds and value destructions (beyond what are
-used in this Python code), and examples of ethical dilemma calculations
-for multiple versions of the "trolley problem.\"
+For more information on these ethics calculations, see 
+https://www.lesswrong.com/posts/gz7eSELFcRYJLdnkE/towards-an-ethics-calculator-for-use-by-an-agi
 
 How You Can Help 
 ================ 
 Please follow the X account
-\@DishonorP (https://twitter.com/DisonorP), and like and repost its
+\@DishonorP (https://twitter.com/DishonorP), and like and repost its
 posts.
 
 Contact 
